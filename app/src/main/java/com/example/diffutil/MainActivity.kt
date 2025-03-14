@@ -7,7 +7,6 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.diffutil.databinding.ActivityMainBinding
-import java.util.UUID
 import kotlin.random.Random
 
 class MainActivity : AppCompatActivity() {
